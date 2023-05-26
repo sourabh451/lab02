@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
-
+    System.out.println("Welcome to calculator");
     char operator;
     Double number1, number2, result;
 
